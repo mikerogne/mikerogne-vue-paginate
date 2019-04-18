@@ -1,3 +1,7 @@
+# This is an updated version of [vue-paginate](https://github.com/TahaSh/vue-paginate). Original README below.
+
+## ...
+
 # vue-paginate [![CDNJS version](https://img.shields.io/cdnjs/v/vue-paginate.svg)](https://cdnjs.com/libraries/vue-paginate)
 
 > This version only works with Vue 2.0. For Vue 1.0, check out the [1.0 branch](https://github.com/TahaSh/vue-paginate/tree/1.0).

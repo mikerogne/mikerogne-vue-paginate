@@ -1,7 +1,7 @@
 {
-  "name": "vue-paginate",
-  "version": "3.6.0",
-  "description": "A simple vue.js plugin to paginate data",
+  "name": "updated-vue-paginate",
+  "version": "3.6.1",
+  "description": "Updated version of vue-paginate",
   "main": "dist/vue-paginate.js",
   "scripts": {
     "build": "rollup --environment NODE_ENV:production -c build/rollup.config.js && uglifyjs dist/vue-paginate.js -cm --comments -o dist/vue-paginate.min.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TahaSh/vue-paginate.git"
+    "url": "https://github.com/mikerogne/updated-vue-paginate.git"
   },
   "keywords": [
     "paginate",
